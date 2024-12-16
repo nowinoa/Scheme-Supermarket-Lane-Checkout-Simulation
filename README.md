@@ -40,7 +40,7 @@ Lately, the file F6 has been added to introduce more functionalities:
 2. **Clone or Download the Project**:
    - To clone the project using Git, run the following command in your terminal:
      ```bash
-     git clone [<repository-url>](https://github.com/nowinoa/Scheme-Supermarket-Lane-Checkout-Simulation.git)
+     git clone https://github.com/nowinoa/Scheme-Supermarket-Lane-Checkout-Simulation.git
      ```
    - Alternatively, you can download the project as a ZIP file from the repository's page and extract it.
 
