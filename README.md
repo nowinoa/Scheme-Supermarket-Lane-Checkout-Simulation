@@ -35,11 +35,25 @@ The Supermarket Lane Checkout Simulation models a queue management system where 
      ```
    - Alternatively, you can download the project as a ZIP file from the repository's page and extract it.
 
-3. **Open the project in DrRacket**:
+## Usage
+1. **Open the project in DrRacket**:
    - After downloading or cloning the project, open it in DrRacket.
 
-4. **Run the Simulation**:
+2. **Run the Simulation**:
    - To start the simulation, simply click the **Run** button in DrRacket while `sim-sim.rkt` is the active file. This will:
      - Set up the lanes and events.
      - Start processing the events in the event queue.
      - Output the simulation logs to the console, showing events and lane statuses.
+
+## Credits
+This project was created by <a href="https://github.com/nowinoa">Ainhoa Prada</a>, under the supervision of the <a href="https://www.gre.ac.uk/">University of Greenwich</a>. 
+
+## License
+This project is under MIT license
+        
+## Questions
+For any questions or issues feel free to contact me at: apt.code14@gmail.com
+
+To explore more about my projects visit my profile :point_right: <a href="https://github.com/nowinoa">:computer:</a>
+
+© 2024 Ainhoa Prada. Confidential and Proprietary. All Rights Reserved.
