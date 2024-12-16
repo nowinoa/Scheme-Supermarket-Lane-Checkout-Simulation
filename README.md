@@ -46,7 +46,7 @@ The Supermarket Lane Checkout Simulation models a queue management system where 
      - Output the simulation logs to the console, showing events and lane statuses.
 
 ## Credits
-This project was created by <a href="https://github.com/nowinoa">Ainhoa Prada</a>, under the supervision of the <a href="https://www.gre.ac.uk/">University of Greenwich</a>. 
+This project was created by <a href="https://github.com/nowinoa">Ainhoa Prada</a> under the supervision of the <a href="https://www.gre.ac.uk/">University of Greenwich</a>. 
 
 ## License
 This project is under MIT license
