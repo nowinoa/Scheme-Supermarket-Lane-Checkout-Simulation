@@ -22,6 +22,15 @@ The Supermarket Lane Checkout Simulation models a queue management system where 
 6. **`sim-sim.rkt`**: 
    - The main simulation file. It ties together all the components, initializing lanes, events, and the event queue. The simulation processes events in order, updates the lane statuses, and generates logs of the simulation’s progress.
 
+## Recent Additions
+Lately, the file F6 has been added to introduce more functionalities:
+
+- **F6.1.i:** `all-cust-wait_lst` – Returns a list of lists of customer IDs waiting in each lane's queue.
+- **F6.1.ii:** `most-crowded` – Returns the lane with the most customers.
+- **F6.2.i:** `event-params-lst` – Maps events to return a list of customer and lane IDs as pairs.
+- **F6.2.ii:** `is-sorted?` – Checks if a list of events is sorted.
+- **Helper Function:** `sort-event` – Sorts events by time and customer ID when time is tied.
+- **Helper Function:** `calculate-total-customers` – Calculates the total number of customers in a lane, including those being processed at the till.
 
 ## Installation:
 
